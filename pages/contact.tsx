@@ -82,7 +82,7 @@ const Index = () => {
   return (
     <About>
       <Head>
-        <title>About | WebInRush 🚀</title>
+        <title>Contact Us | WebInRush 🚀</title>
       </Head>
       <div className="card container">
         <h1>WebInRush 🚀</h1>
