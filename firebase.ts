@@ -3,9 +3,9 @@ import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
   apiKey: process.env.FIREBASE_API_KEY,
-  authDomain: "webinrush-f6536.firebaseapp.com",
-  projectId: "webinrush-f6536",
-  storageBucket: "webinrush-f6536.appspot.com",
+  authDomain: "chatbot-13bbe.firebaseapp.com",
+  projectId: "chatbot-13bbe",
+  storageBucket: "chatbot-13bbe.appspot.com",
   messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
   appId: process.env.FIREBASE_APP_ID,
 };
