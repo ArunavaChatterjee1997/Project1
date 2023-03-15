@@ -209,8 +209,8 @@ const InstaVideoDownloader = () => {
             "name": ${og.describedTitle},
             "url": ${og.url},
             "sameAs": [
-              "https://www.instagram.com/itsme_subid/",
-              "https://twitter.com/ItsmeSubid"
+              "https://www.instagram.com/itsme_Arc/",
+              "https://twitter.com/ItsmeArc"
             ],
             "logo": {
               "@type": "ImageObject",
@@ -220,7 +220,7 @@ const InstaVideoDownloader = () => {
               "contentUrl": ${og.image},
               "width": 1000,
               "height": 1000,
-              "caption": "itsme-Subid"
+              "caption": "itsme-Arc"
             },
             "image": { "@id": ${og.url} }
           },

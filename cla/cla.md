@@ -1,17 +1,17 @@
 # Contributor License Agreement
 
-Thank you for your contribution to this itsme-Subid software project. In order to
+Thank you for your contribution to this itsme-Arc software project. In order to
 clarify the intellectual property rights in the project, and to grant licenses
-to the project to others, itsme-Subid, Inc. ("itsme-Subid") requires that you accept
+to the project to others, itsme-Arc, Inc. ("itsme-Arc") requires that you accept
 this Contributor License Agreement ("Agreement"). This license is for your
-protection as a Contributor as well as the protection of itsme-Subid, its users, and
+protection as a Contributor as well as the protection of itsme-Arc, its users, and
 its licensees; you may still license your own Contributions under other terms.
 
 You accept and agree to the following terms and conditions for Your present and
-future Contributions submitted to itsme-Subid. Except for the license granted herein
-to itsme-Subid and recipients of software distributed by itsme-Subid, You reserve all
+future Contributions submitted to itsme-Arc. Except for the license granted herein
+to itsme-Arc and recipients of software distributed by itsme-Arc, You reserve all
 right, title, and interest in and to Your Contributions. **(If, however, you are
-a current or former employee of itsme-Subid, your rights and/or Contributions may be
+a current or former employee of itsme-Arc, your rights and/or Contributions may be
 governed by another agreement, including your Employee Invention Assignment, and
 nothing in this Agreement shall be construed as modifying the terms of any other
 such agreement.)**
@@ -19,7 +19,7 @@ such agreement.)**
 1. Definitions.
 
    "You" (or "Your") shall mean the copyright owner or legal entity authorized
-   by the copyright owner that is making this Agreement with itsme-Subid. For legal
+   by the copyright owner that is making this Agreement with itsme-Arc. For legal
    entities, the entity making a Contribution and all other entities that
    control, are controlled by, or are under common control with that entity are
    considered to be a single Contributor. For the purposes of this definition,
@@ -30,26 +30,26 @@ such agreement.)**
 
    "Contribution" shall mean any original work of authorship, including any
    modifications or additions to an existing work, that is intentionally
-   submitted by You to itsme-Subid for inclusion in, or documentation of, any of the
-   products owned or managed by itsme-Subid (the "Work"). For the purposes of this
+   submitted by You to itsme-Arc for inclusion in, or documentation of, any of the
+   products owned or managed by itsme-Arc (the "Work"). For the purposes of this
    definition, "submitted" means any form of electronic, verbal, or written
-   communication sent to itsme-Subid or its representatives, including but not
+   communication sent to itsme-Arc or its representatives, including but not
    limited to communication on electronic mailing lists, source code control
    systems, and issue tracking systems that are managed by, or on behalf of,
-   itsme-Subid for the purpose of discussing and improving the Work, but excluding
+   itsme-Arc for the purpose of discussing and improving the Work, but excluding
    communication that is conspicuously marked or otherwise designated in writing
    by You as "Not a Contribution."
 
 2. Grant of Copyright License.  Subject to the terms and conditions of this
-   Agreement, You hereby grant to itsme-Subid and to recipients of software
-   distributed by itsme-Subid a perpetual, worldwide, non-exclusive, no-charge,
+   Agreement, You hereby grant to itsme-Arc and to recipients of software
+   distributed by itsme-Arc a perpetual, worldwide, non-exclusive, no-charge,
    royalty-free, irrevocable copyright license to reproduce, prepare derivative
    works of, publicly display, publicly perform, sublicense, and distribute Your
    Contributions and such derivative works.
 
 3. Grant of Patent License. Subject to the terms and conditions of this
-   Agreement, You hereby grant to itsme-Subid and to recipients of software
-   distributed by itsme-Subid a perpetual, worldwide, non-exclusive, no-charge,
+   Agreement, You hereby grant to itsme-Arc and to recipients of software
+   distributed by itsme-Arc a perpetual, worldwide, non-exclusive, no-charge,
    royalty-free, irrevocable (except as stated in this section) patent license
    to make, have made, use, offer to sell, sell, import, and otherwise transfer
    the Work, where such license applies only to those patent claims licensable
@@ -66,8 +66,8 @@ such agreement.)**
    your employer(s) has rights to intellectual property that you create that
    includes your Contributions, you represent that you have received permission
    to make Contributions on behalf of that employer, that your employer has
-   waived such rights for your Contributions to itsme-Subid, or that your employer
-   has executed a separate Corporate CLA with itsme-Subid.
+   waived such rights for your Contributions to itsme-Arc, or that your employer
+   has executed a separate Corporate CLA with itsme-Arc.
 
 5. You represent that each of Your Contributions is Your original creation (see
    section 7 for submissions on behalf of others). You represent that Your
@@ -85,11 +85,11 @@ such agreement.)**
    MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
 
 7. Should You wish to submit work that is not Your original creation, You may
-   submit it to itsme-Subid separately from any Contribution, identifying the
+   submit it to itsme-Arc separately from any Contribution, identifying the
    complete details of its source and of any license or other restriction
    (including, but not limited to, related patents, trademarks, and license
    agreements) of which you are personally aware, and conspicuously marking the
    work as "Submitted on behalf of a third-party: [named here]".
 
-8. You agree to notify itsme-Subid of any facts or circumstances of which you become
+8. You agree to notify itsme-Arc of any facts or circumstances of which you become
    aware that would make these representations inaccurate in any respect.

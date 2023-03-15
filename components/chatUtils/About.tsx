@@ -243,7 +243,7 @@ const About = ({ isInfo, setInfo }: AboutProps) => {
           an organization that specializes in creating high-quality,
           user-friendly websites for its clients.
         </p>
-        <p className="created">WebInRush created by SUBID, on Dec 2022</p>
+        <p className="created">WebInRush created by Arc, on Dec 2022</p>
       </div>
       <div className="team">
         <h2>

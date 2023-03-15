@@ -127,8 +127,8 @@ const App = ({ Component, pageProps: { session, ...pageProps } }: Props) => {
             "name": ${og.describedTitle},
             "url": ${og.url},
             "sameAs": [
-              "https://www.instagram.com/itsme_subid/",
-              "https://twitter.com/ItsmeSubid"
+              "https://www.instagram.com/itsme_Arc/",
+              "https://twitter.com/ItsmeArc"
             ],
             "logo": {
               "@type": "ImageObject",
@@ -138,7 +138,7 @@ const App = ({ Component, pageProps: { session, ...pageProps } }: Props) => {
               "contentUrl": ${og.image},
               "width": 1000,
               "height": 1000,
-              "caption": "itsme-Subid"
+              "caption": "itsme-Arc"
             },
             "image": { "@id": ${og.url} }
           },
@@ -170,8 +170,8 @@ const App = ({ Component, pageProps: { session, ...pageProps } }: Props) => {
         <meta property="twitter:title" content={og.describedTitle} />
         <meta property="twitter:description" content={og.description} />
         <meta property="twitter:image" content={og.image} />
-        <meta name="twitter:site" content="@itsme-Subid" />
-        <meta name="twitter:creator" content="@itsme-Subid" />
+        <meta name="twitter:site" content="@itsme-Arc" />
+        <meta name="twitter:creator" content="@itsme-Arc" />
         <meta name="theme-color" content="#023047" />
         <meta name="next-head-count" content="26" />
       </Head>

@@ -160,7 +160,7 @@ const Index = () => {
           <p>
             If you have any questions or concerns about our privacy policy, or
             if you would like to exercise your rights, please contact us at
-            itsmesubid@gmail.com.
+            itsmeArc@gmail.com.
           </p>
         </div>
         <div>
@@ -185,7 +185,7 @@ const Index = () => {
           <h2>👥 Contact Us</h2>
           <p>
             If you have any questions or concerns about our privacy policy,
-            please contact us at itsmesubid@gmail.com. We will respond to your
+            please contact us at itsmeArc@gmail.com. We will respond to your
             inquiry as soon as possible.
           </p>
           <p>

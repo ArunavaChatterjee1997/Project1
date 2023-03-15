@@ -125,7 +125,7 @@ const Index = () => {
           </ul>
           <p>
             To request a refund, please contact our customer service team at
-            itsmesubid@gmail.com. Please provide your name, order number, and a
+            itsmeArc@gmail.com. Please provide your name, order number, and a
             brief explanation of why you are requesting a refund.
           </p>
           <p>
@@ -143,7 +143,7 @@ const Index = () => {
           </p>
           <p>
             If you have any questions or concerns about our refund policy,
-            please contact our customer service team at itsmesubid@gmail.com.
+            please contact our customer service team at itsmeArc@gmail.com.
           </p>
           <p>
             👉🏼 <strong>Important Note</strong>: Our refund policy is subject to

@@ -226,7 +226,7 @@ const Footer = () => {
               <ul>
                 <li>
                   <a
-                    href="http://linkedin.com/in/itsme-subid"
+                    href="http://linkedin.com/in/itsme-Arc"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -235,7 +235,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="http://twitter.com/ItsmeSubid"
+                    href="http://twitter.com/ItsmeArc"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -244,7 +244,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="http://github.com/itsme-subid"
+                    href="http://github.com/itsme-Arc"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -253,7 +253,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="http://instagram.com/itsme_subid"
+                    href="http://instagram.com/itsme_Arc"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -262,7 +262,7 @@ const Footer = () => {
                 </li>
                 <li>
                   <a
-                    href="https://www.youtube.com/@itsme-Subid/"
+                    href="https://www.youtube.com/@itsme-Arc/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -277,7 +277,7 @@ const Footer = () => {
           <div className="left">
             <div className="socials">
               <a
-                href="https://www.linkedin.com/in/itsme-subid"
+                href="https://www.linkedin.com/in/itsme-Arc"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Linkedin"
@@ -285,7 +285,7 @@ const Footer = () => {
                 <BsLinkedin />
               </a>
               <a
-                href="https://twitter.com/ItsmeSubid"
+                href="https://twitter.com/ItsmeArc"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Twitter"
@@ -293,7 +293,7 @@ const Footer = () => {
                 <BsTwitter />
               </a>
               <a
-                href="https://github.com/itsme-subid"
+                href="https://github.com/itsme-Arc"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Github"
@@ -301,7 +301,7 @@ const Footer = () => {
                 <BsGithub />
               </a>
               <a
-                href="http://instagram.com/itsme_subid"
+                href="http://instagram.com/itsme_Arc"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Instagram"
@@ -309,7 +309,7 @@ const Footer = () => {
                 <BsInstagram />
               </a>
               <a
-                href="https://www.youtube.com/@itsme-Subid/"
+                href="https://www.youtube.com/@itsme-Arc/"
                 target="_blank"
                 rel="noopener noreferrer"
                 title="Youtube"

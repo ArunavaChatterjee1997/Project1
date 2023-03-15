@@ -202,7 +202,7 @@ const Index = () => {
           </p>
           <p>
             If you have any questions or concerns about these terms and
-            conditions, please contact us at itsmesubid@gmail.com. Thank you for
+            conditions, please contact us at itsmeArc@gmail.com. Thank you for
             choosing WebInRush! 🚀
           </p>
         </div>
