@@ -4278,22 +4278,22 @@ unique-slug@^3.0.0:
   dependencies:
     imurmurhash "^0.1.4"
 
-upload-js@^2.11.0:
-  version "2.11.2"
-  resolved "https://registry.yarnpkg.com/upload-js/-/upload-js-2.11.2.tgz#b5292b50ae2a21fdda5c0f8f099f3bd4cedb4776"
-  integrity sha512-q6IkwFLA3kL1MbBMvzCbJC0EHjMgjJ399f5QH3Up5rkoVjYXZxTKRgyJQeRT1HpqPQ3gCJdvZuL/Cv1LjBRGMg==
+upload-js@^2.16.0:
+  version "2.16.0"
+  resolved "https://registry.yarnpkg.com/upload-js/-/upload-js-2.16.0.tgz#874acb940b7da07924d896c701af1da11a02c1e2"
+  integrity sha512-k4FAeapW2NnGhvvyajTItar/BQ/0kg9+31hVXqQsylUlN3IYnEo7IH6ImOfz36Poz2umB6agfTeAPJfAuXQCdQ==
   dependencies:
     "@upload-io/upload-api-client-upload-js" "^2.15.0"
     progress-smoother "^1.4.0"
 
-uploader@^3.6.0, uploader@^3.6.1:
-  version "3.6.1"
-  resolved "https://registry.yarnpkg.com/uploader/-/uploader-3.6.1.tgz#2bd76d8527b09f315d0bb906c0feccb45cd0b234"
-  integrity sha512-sTTltZORBRB2NoCVCpFfvN0RpQQBDJt0FuG64bm6rvzAHSR3DMZIl2ImAl3fZxwKRwP4RrqfuX2MvcoCQHKwbg==
+uploader@^3.27.0, uploader@^3.6.0:
+  version "3.27.0"
+  resolved "https://registry.yarnpkg.com/uploader/-/uploader-3.27.0.tgz#29bf890835dc4ac7427b0e874b15169921d60226"
+  integrity sha512-s+pZlVBO8UuFdmkueK5BUMJQU+DNVD/b2o0syo8V8jhx4VQkc2Mv5PQoHJdU1Hn0uOA12j59F+th/RUB7n90UA==
   dependencies:
     classnames "^2.2.6"
     preact "^10.6.5"
-    upload-js "^2.11.0"
+    upload-js "^2.16.0"
 
 uri-js@^4.2.2:
   version "4.4.1"
